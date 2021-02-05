@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(rgb(102, 197, 241),rgb(7, 22, 70));
+}
+.main{
+    margin:10vh auto;
+}
+.head{
+    text-align: center;
+}
+.box{
+    margin:auto !important;
+    /* width: 50% !important; */
+    height: 50% !important;
+}
